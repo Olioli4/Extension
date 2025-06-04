@@ -1,0 +1,19 @@
+DEBUG: Script starting...
+DEBUG: Received message: {'url': 'https://chromewebstore.google.com/search/github?utm_source=ext_app_menu'}
+DEBUG: No Chrome message, showing inputbox for first column
+DEBUG: Showing inputbox for episode column
+DEBUG: Saving to ODS: titel=, episode=, seen_on=04.06.2025, url=https://chromewebstore.google.com/search/github?utm_source=ext_app_menu, more=False, cover=
+DEBUG: Successfully saved to ODS
+DEBUG: Sending response to Chrome
+DEBUG: Response sent successfully
+DEBUG: Script completed successfully
+DEBUG: Script starting...
+DEBUG: Received message: {'text': 'Rust', 'url': 'https://fsmirror57.lol/films/15121125-rust.html', 'imageSrc': 'https://image.tmdb.org/t/p/w300/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg'}
+DEBUG: Using titel from Chrome: Rust
+DEBUG: Cover image source: https://image.tmdb.org/t/p/w300/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg
+DEBUG: Showing inputbox for episode column
+DEBUG: Saving to ODS: titel=, episode=, seen_on=04.06.2025, url=https://fsmirror57.lol/films/15121125-rust.html, more=False, cover=https://image.tmdb.org/t/p/w300/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg
+DEBUG: Successfully saved to ODS
+DEBUG: Sending response to Chrome
+DEBUG: Response sent successfully
+DEBUG: Script completed successfully
